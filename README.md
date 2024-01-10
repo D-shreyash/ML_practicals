@@ -19,6 +19,8 @@ I. Accuracy
 II. Precision
 III. Recall
 IV. F-1 score
+<br/>
+<br/>
 2. Assignment on Regression technique
 Download temperature data from below link. https://www.kaggle.com/venky73/temperatures-
 of-india?select=temperatures.csv
@@ -59,6 +61,8 @@ b. Perform data-preparation (Train-Test Split)
 c. Apply at least two Machine Learning Algorithms and Evaluate Models
 d. Apply Cross-Validation and Evaluate Models and compare performance.
 e. Apply Hyper parameter tuning and evaluate models and compare performance.
+<br/>
+<br/>
 5. Assignment on Clustering Techniques
 Download the following customer dataset from below link:
 Data Set: https://www.kaggle.com/shwetabh123/mall-customers
@@ -75,6 +79,8 @@ TE (Information Technology) Syllabus (2019 Course) 42
 c. Apply Machine Learning Algorithm
 d. Evaluate Model.
 e. Apply Cross-Validation and Evaluate Model
+<br/>
+<br/>
 6. Assignment on Association Rule Learning
 Download Market Basket Optimization dataset from below link.
 Data Set: https://www.kaggle.com/hemanthkumar05/market-basket-optimization
@@ -91,6 +97,8 @@ d. Train Apriori algorithm on the dataset
 e. Visualize the list of rules
 F. Generated rules depend on the values of hyper parameters. By increasing the
 minimum confidence value and find the rules accordingly
+<br/>
+<br/>
 7. Assignment on Multilayer Neural Network Model
 Download the dataset of National Institute of Diabetes and Digestive and Kidney Diseases from
 below link :
