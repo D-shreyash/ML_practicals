@@ -29,6 +29,8 @@ wise. Temperatures values are recorded in CELSIUS
 a. Apply Linear Regression using suitable library function and predict the Month-wisetemperature.
 b. Assess the performance of regression models using MSE, MAE and R-Square metrics
 c. Visualize simple regression model.
+<br/>
+<br/>
 3. Assignment on Classification technique
 Every year many students give the GRE exam to get admission in foreign Universities. The data
 set contains GRE Scores (out of 340), TOEFL Scores (out of 120), University Rating (out of 5),
@@ -46,6 +48,8 @@ necessary.
 Perform data-preparation (Train-Test Split)
 C. Apply Machine Learning Algorithm
 D. Evaluate Model.
+<br/>
+<br/>
 4. Assignment on Improving Performance of Classifier Models
 A SMS unsolicited mail (every now and then known as cell smartphone junk mail) is any junk message
 brought to a cellular phone as textual content messaging via the Short Message Service (SMS). Use
